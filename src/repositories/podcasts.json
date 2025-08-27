@@ -3,18 +3,18 @@
         "podcastName": "flow",
         "episode": "CBUM - Flow #319",
         "videoId": "pQSuQmUfS30",
-        "category": ["saúde", "bodybuilder"]
+        "category": ["health", "bodybuilding"]
     },
     {
         "podcastName": "flow",
         "episode": "RUBENS BARRICHELLO - Flow #339",
         "videoId": "4KDGTdiOV4I",
-        "category": ["esporte", "corrida"]
+        "category": ["sports", "racing"]
     },
     {
-        "podcastName": "venus",
-        "episode": "xuxa",
-        "videoId": "0000",
-        "category": ["humor"]
+        "podcastName": "podpah",
+        "episode": "NEYMAR JR - Podpah #451",
+        "videoId": "exampleVideoId123",
+        "category": ["sports", "soccer"]
     }
 ]
